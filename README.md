@@ -260,16 +260,6 @@ Our mission is to help clients reduce engineering turnaround time while maintain
 
 </div>
 
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Professional-2E86AB?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Native-1A3A5C?style=flat-square)
-![Marathi](https://img.shields.io/badge/Marathi-Native-1A3A5C?style=flat-square)
-
----
-
 ## 📬 Connect With Us
 
 <div align="center">
