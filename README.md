@@ -3,8 +3,6 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A5C,100:2E86AB&height=220&section=header&text=BLUE%20LINE%20DESIGN%20STUDIO&fontSize=38&fontColor=E8F4FD&fontAlignY=38&desc=Piping%20Design%20%7C%20CADWorx%20%7C%203D%20Plant%20Modeling%20%7C%20Engineering%20Consultancy&descAlignY=58&descColor=A8D8EA&animation=fadeIn" width="100%"/>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E86AB&style=flat-square" alt="Profile Views"/>
 
 </div>
 
