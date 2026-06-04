@@ -266,7 +266,7 @@ Our mission is to help clients reduce engineering turnaround time while maintain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BLUE%20LINE%20DESIGN%20STUDIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bluelinedesignstudio@hotmail.com)
 
 [![Location](https://img.shields.io/badge/Location-India%20%7C%20Worldwide%20Services-2E86AB?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
