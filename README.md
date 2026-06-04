@@ -1,37 +1,38 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A5C,100:2E86AB&height=220&section=header&text=blueline design studio%20%7C%20Piping%20Design%20Engineer&fontSize=36&fontColor=E8F4FD&fontAlignY=38&desc=CADWorx%20%7C%20AutoCAD%20%7C%20AutoPLANT%203D%20%7C%203D%20Plant%20Modeling&descAlignY=58&descColor=A8D8EA&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A5C,100:2E86AB&height=220&section=header&text=BLUE%20LINE%20DESIGN%20STUDIO&fontSize=38&fontColor=E8F4FD&fontAlignY=38&desc=Piping%20Design%20%7C%20CADWorx%20%7C%203D%20Plant%20Modeling%20%7C%20Engineering%20Consultancy&descAlignY=58&descColor=A8D8EA&animation=fadeIn" width="100%"/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
+<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E86AB&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=1A3A5C" alt="Followers"/>
 
 </div>
 
 ---
 
-## 👷 About Me
+## 🏢 About BLUE LINE DESIGN STUDIO
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║   🏭  Junior Piping Design Engineer | 3D Plant Modeling Specialist   ║
-║   📍  India  |  Open to Relocation: UAE · Qatar · KSA · Oman · EU   ║
-║   🎓  Diploma in Mechanical Engineering — Govt. Polytechnic Karad    ║
-║   💼  4+ Years of EPC & Process Industry Experience                  ║
+║                     BLUE LINE DESIGN STUDIO                        ║
+║                                                                     ║
+║        Piping Design & 3D Plant Modeling Consultancy               ║
+║                                                                     ║
+║   📍 India | Serving Clients Worldwide                             ║
+║   ⚙️ EPC • Process Plants • Water Treatment • Food Processing      ║
+║   💻 Semiconductor • Pharmaceutical • Manufacturing Industries     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a **Junior Piping Design Engineer** with **4+ years of hands-on experience** in 3D plant modeling, piping design, and engineering documentation for **EPC, process, pharmaceutical, food processing, and semiconductor industries**.
+BLUE LINE DESIGN STUDIO provides professional engineering support services for EPC contractors, engineering consultants, equipment manufacturers, and industrial clients worldwide.
 
-I have delivered projects for clients like **Thermax, Nestlé, Praj Industries, and Intel Israel**, working across industries including ZLD treatment plants, bioethanol plants, nutrient processing, and cutting-edge semiconductor fabrication facilities.
+We specialize in delivering practical, accurate, and cost-effective engineering solutions covering the complete piping design lifecycle—from concept development to fabrication-ready deliverables.
 
-My expertise spans the full piping design lifecycle — from **P&ID interpretation** and **3D modeling** to **isometric extraction**, **MTO preparation**, and **client coordination**.
+Our mission is to help clients reduce engineering turnaround time while maintaining the highest standards of quality, constructability, and documentation.
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Technical Capabilities
 
 ### 🖥️ Software Proficiency
 
@@ -69,118 +70,183 @@ My expertise spans the full piping design lifecycle — from **P&ID interpretati
 
 ---
 
-## 💼 Professional Experience
+## 💼 Engineering Services
 
-### 🏢 Aayush Corporation — Junior Design Engineer
-**November 2024 – Present**
+### 🏭 Design & Modeling Services
+
+- Complete 3D Plant Modeling
+- Process & Utility Pipe Routing
+- Equipment Modeling
+- Structural Modeling
+- Pipe Support Modeling
+- Plant Layout Development
+- Brownfield & Greenfield Design Support
+- CADWorx Plant Professional Modeling
+
+### 📐 Engineering Deliverables
+
+- Piping General Arrangement Drawings
+- Equipment General Arrangement Drawings
+- Fabrication Drawings
+- Piping Isometrics
+- Bill of Materials (BOM)
+- Material Take-Off (MTO)
+- Bill of Quantities (BOQ)
+- Engineering Documentation Packages
+
+### 🔍 Design Review & Coordination
+
+- Clash Detection & Resolution
+- Model Reviews
+- Design Verification
+- Revision Management
+- Client Comment Resolution
+- Engineering Coordination Support
+
+---
+
+## 📁 Featured Projects & Knowledge Base
+
+> Engineering resources, workflows, standards, templates, and project references developed by BLUE LINE DESIGN STUDIO.
 
 <details>
-<summary><b>🌱 Praj Industries / Woodpecker Greenary Nutrients Pvt. Ltd.</b></summary>
+<summary><b>🧪 Water Treatment & ZLD Engineering</b></summary>
 
-- Modeled complete equipment and piping systems from P&ID and Equipment GADs
-- Designed and modeled structural elements: platforms, handrails, and staircases
-- Prepared piping GA drawings and equipment GA drawings
-- Extracted piping isometrics and prepared MTOs
-- Led client coordination and resolved technical queries
-- Updated 3D models based on client review comments
+<br>
 
-**Industry:** Bioethanol / Nutrient Processing | **Tool:** CADWorx Plant Professional
+- Complete Pipe Routing
+- Equipment Modeling
+- Structural Modeling
+- Pipe Support Design
+- Isometric Extraction
+- MTO Preparation
+- Fabrication Documentation
+
+**Industry:** Water Treatment / ZLD
 
 </details>
 
 <details>
-<summary><b>💻 Intel Israel — Semiconductor Facility Project</b></summary>
+<summary><b>🌽 Bioethanol & Process Industry Projects</b></summary>
 
-- Modeled equipment and piping systems for a high-precision semiconductor facility
-- Extracted piping isometrics and prepared fabrication drawings
-- Prepared complete BOMs and MTOs
-- Implemented site and client revision cycles
+<br>
 
-**Industry:** Semiconductor | **Tool:** CADWorx Plant Professional
+- Process Equipment Modeling
+- Utility & Process Piping
+- Plant Layout Development
+- Structural Modeling
+- Piping GA Drawings
+- Engineering Documentation
+
+**Industry:** Bioethanol / Process Plants
+
+</details>
+
+<details>
+<summary><b>🍫 Food & Beverage Facilities</b></summary>
+
+<br>
+
+- Hygienic Process Piping
+- Equipment Integration
+- Building & Utility Modeling
+- Pipe Support Design
+- BOQ & Documentation
+
+**Industry:** Food Processing
+
+</details>
+
+<details>
+<summary><b>💻 Semiconductor Facilities</b></summary>
+
+<br>
+
+- High-Purity Piping Systems
+- Equipment Modeling
+- Fabrication Drawings
+- Isometric Extraction
+- MTO & BOM Development
+
+**Industry:** Semiconductor
+
+</details>
+
+<details>
+<summary><b>🏭 EPC Engineering Support Services</b></summary>
+
+<br>
+
+- Full Project Modeling Support
+- Drawing Production
+- QA/QC Engineering Checks
+- Revision Management
+- Deliverable Preparation
+
+**Industry:** EPC Projects
 
 </details>
 
 ---
 
-### 🏢 Fluicem Engineering — Piping Designer
-**October 2022 – October 2024**
+## 📚 Featured Repositories
 
-<details>
-<summary><b>🌡️ Thermax Ltd. — ZLD Skid</b></summary>
-
-- Complete pipe routing and modeling using CADWorx Plant
-- Equipment and structural modeling including pipe supports
-- Isometric extraction, checking, and QC
-- Prepared piping GA drawings, support GA drawings, and Navisworks models
-- Managed client coordination, support detailing, and specification revision
-
-**Industry:** ZLD / Water Treatment | **Tool:** CADWorx + Navisworks
-
-</details>
-
-<details>
-<summary><b>🍫 Nestlé — Food Processing Facility</b></summary>
-
-- Building modeling using RCC structural inputs
-- Full equipment and pipe routing with cable tray integration
-- Pipe support design and BOQ generation
-- Cross-verification of drawings and model review cycles
-
-**Industry:** Food Processing | **Tool:** CADWorx Plant Professional
-
-</details>
+| # | Repository | Description |
+|---|-----------|-------------|
+| 01 | piping-isometric-library | Collection of piping isometric references |
+| 02 | cadworx-plant-setup-guide | CADWorx setup and workflow guide |
+| 03 | zld-skid-design-reference | ZLD engineering reference package |
+| 04 | pid-interpretation-guide | P&ID interpretation guide |
+| 05 | pipe-support-catalog | Pipe support standards library |
+| 06 | mto-bom-templates | MTO, BOQ & BOM templates |
+| 07 | navisworks-clash-detection-guide | Clash detection workflow |
+| 08 | piping-spec-development | Piping specification development |
+| 09 | equipment-modeling-reference | Equipment modeling standards |
+| 10 | ga-drawing-standards | GA drawing best practices |
+| 11 | food-processing-piping-design | Food processing design references |
+| 12 | semiconductor-piping-notes | Semiconductor piping references |
+| 13 | plant-layout-fundamentals | Plant layout guidelines |
+| 14 | engineering-checklists | QA/QC engineering checklists |
+| 15 | engineering-workflows | Engineering workflows & standards |
 
 ---
 
-### 🏢 GE India Pvt. Ltd. — Design Engineering Trainee
-**September 2021 – September 2022**
-
-- Part modeling, assembly modeling, manufacturing drawings
-- GD&T interpretation and design verification
-- Documentation control and production support drawings
-
-**Industry:** Manufacturing | **Tool:** AutoCAD / CAD tools
-
----
-
-## 📁 Featured Projects
-
-> 🚧 This portfolio is actively being built. Each repository documents real engineering workflows, templates, and reference designs.
-
-| # | Repository | Description | Skills |
-|---|-----------|-------------|--------|
-| 01 | [piping-isometric-library](https://github.com/YOUR_USERNAME/piping-isometric-library) | Collection of annotated piping isometric drawings with MTO templates | Isometrics, MTO, CADWorx |
-| 02 | [cadworx-plant-setup-guide](https://github.com/YOUR_USERNAME/cadworx-plant-setup-guide) | Step-by-step setup, spec building, and workflow guide for CADWorx Plant | CADWorx, Documentation |
-| 03 | [zld-skid-design-reference](https://github.com/YOUR_USERNAME/zld-skid-design-reference) | Reference design package for a ZLD (Zero Liquid Discharge) skid | Piping Design, P&ID, Thermax |
-| 04 | [pid-interpretation-guide](https://github.com/YOUR_USERNAME/pid-interpretation-guide) | Practical guide to reading and interpreting P&IDs for piping designers | P&ID, Engineering Fundamentals |
-| 05 | [pipe-support-catalog](https://github.com/YOUR_USERNAME/pipe-support-catalog) | Standard pipe support types: details, selection criteria, and CAD templates | Pipe Support Design, Structural |
-| 06 | [mto-bom-templates](https://github.com/YOUR_USERNAME/mto-bom-templates) | Excel-based MTO, BOQ, and BOM templates for process piping projects | MTO, BOQ, BOM, Documentation |
-| 07 | [navisworks-clash-detection-guide](https://github.com/YOUR_USERNAME/navisworks-clash-detection-guide) | Workflow guide for clash detection and resolution using Navisworks | Navisworks, 3D Coordination |
-| 08 | [piping-spec-development](https://github.com/YOUR_USERNAME/piping-spec-development) | Process for developing and checking piping specifications for process plants | Piping Specs, Engineering Standards |
-| 09 | [equipment-modeling-reference](https://github.com/YOUR_USERNAME/equipment-modeling-reference) | Reference models and documentation for common process equipment | Equipment Modeling, 3D Modeling |
-| 10 | [ga-drawing-standards](https://github.com/YOUR_USERNAME/ga-drawing-standards) | Best practices and templates for Piping GA and Equipment GA drawings | GA Drawings, AutoCAD, Documentation |
-| 11 | [food-processing-piping-design](https://github.com/YOUR_USERNAME/food-processing-piping-design) | Piping design considerations and references for food & beverage plants | Food Processing, Nestlé-type Projects |
-| 12 | [semiconductor-piping-notes](https://github.com/YOUR_USERNAME/semiconductor-piping-notes) | Notes and references from semiconductor facility piping design work | Intel-type Projects, High-Purity Piping |
-| 13 | [plant-layout-fundamentals](https://github.com/YOUR_USERNAME/plant-layout-fundamentals) | Equipment layout principles, spacing tables, and plot plan guidelines | Plant Layout, Equipment Arrangement |
-| 14 | [engineering-checklists](https://github.com/YOUR_USERNAME/engineering-checklists) | QC checklists for isometrics, GA drawings, MTOs, and model reviews | QC, Engineering Documentation |
-| 15 | [piping-interview-prep](https://github.com/YOUR_USERNAME/piping-interview-prep) | Curated Q&A for Piping Design Engineer interviews across EPC companies | Career, Interview Preparation |
-
----
-
-## 🌍 Industry Experience
+## 🌍 Industries Served
 
 <div align="center">
 
-| Industry | Projects |
+| Industry | Services |
 |----------|----------|
-| 🧪 ZLD / Water Treatment | Thermax Ltd. — ZLD Skid |
-| 🌽 Bioethanol / Process | Praj Industries |
-| 🌱 Nutrient Processing | Woodpecker Greenary Nutrients |
-| 🍫 Food & Beverage | Nestlé |
-| 💻 Semiconductor | Intel Israel |
-| ⚙️ Manufacturing | GE India |
+| 🧪 Water Treatment & ZLD | Complete Piping Design Packages |
+| 🌽 Bioethanol & Process Plants | 3D Modeling & Engineering Support |
+| 🌱 Nutrient Processing | Plant Design Documentation |
+| 🍫 Food & Beverage | Hygienic Process Piping Systems |
+| 💊 Pharmaceutical | Utility & Process Piping |
+| 💻 Semiconductor | High-Purity Piping Systems |
+| ⚙️ Manufacturing | Engineering Drafting Support |
+| 🏭 EPC Projects | End-to-End Design Support |
 
 </div>
+
+---
+
+## ⭐ Why Choose BLUE LINE DESIGN STUDIO
+
+✔ CADWorx Plant Professional Specialists
+
+✔ Industry-Focused Engineering Expertise
+
+✔ Fast Turnaround Times
+
+✔ High-Quality Documentation
+
+✔ Flexible Freelance & Contract Support
+
+✔ Remote Project Execution Worldwide
+
+✔ Cost-Effective Engineering Solutions
+
+✔ Accurate Fabrication Deliverables
 
 ---
 
@@ -189,7 +255,9 @@ My expertise spans the full piping design lifecycle — from **P&ID interpretati
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=2E86AB&text_color=E8F4FD" height="160"/>
+
 &nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=E8F4FD" height="160"/>
 
 </div>
@@ -204,21 +272,23 @@ My expertise spans the full piping design lifecycle — from **P&ID interpretati
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Us
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blueline design studio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Location](https://img.shields.io/badge/Location-India%20%7C%20Open%20to%20Relocation-2E86AB?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BLUE%20LINE%20DESIGN%20STUDIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![Location](https://img.shields.io/badge/Location-India%20%7C%20Worldwide%20Services-2E86AB?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 </div>
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Our Mission
 
-> *"Seeking a challenging role as a Junior Piping Design Engineer / Piping Designer with a leading EPC company, engineering consultancy, or process industry where I can contribute my expertise in 3D plant modeling, piping design, and CADWorx-based workflows to deliver high-quality engineering solutions — with a strong interest in international opportunities across UAE, Qatar, Saudi Arabia, Oman, and Europe."*
+> *"Delivering reliable, practical, and cost-effective piping design solutions that help EPC contractors, engineering consultants, and industrial clients execute projects efficiently, accurately, and confidently."*
 
 ---
 
@@ -226,7 +296,6 @@ My expertise spans the full piping design lifecycle — from **P&ID interpretati
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,50:1A3A5C,100:0D1117&height=120&section=footer" width="100%"/>
 
-*⚙️ Engineering the future, one pipe at a time.*
+### Engineering Precision. Designed for Industry.
 
 </div>
-
